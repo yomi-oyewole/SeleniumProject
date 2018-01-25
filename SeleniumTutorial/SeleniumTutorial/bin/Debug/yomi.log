@@ -1,0 +1,73 @@
+2018-01-04 01:41:00,801 INFO AdvanceFrameWork.BasePage.TestInitialization - browser opening....
+2018-01-04 01:41:00,837 INFO AdvanceFrameWork.BasePage.TestInitialization - getting instance of current page
+2018-01-04 01:41:04,010 INFO AdvanceFrameWork.BasePage.TestInitialization - Got instance. User logging in
+2018-01-04 01:41:04,027 DEBUG AdvanceFrameWork.BasePage.TestInitialization - waiting for web element initalization in current page
+2018-01-04 01:41:04,957 INFO AdvanceFrameWork.BasePage.TestInitialization - Acapulco
+2018-01-04 01:41:04,978 INFO AdvanceFrameWork.BasePage.TestInitialization - Frankfurt
+2018-01-04 01:41:04,991 INFO AdvanceFrameWork.BasePage.TestInitialization - London
+2018-01-04 01:41:05,002 INFO AdvanceFrameWork.BasePage.TestInitialization - New York
+2018-01-04 01:41:05,013 INFO AdvanceFrameWork.BasePage.TestInitialization - Paris
+2018-01-04 01:41:05,025 INFO AdvanceFrameWork.BasePage.TestInitialization - Portland
+2018-01-04 01:41:05,037 INFO AdvanceFrameWork.BasePage.TestInitialization - San Francisco
+2018-01-04 01:41:05,048 INFO AdvanceFrameWork.BasePage.TestInitialization - Seattle
+2018-01-04 01:41:05,056 INFO AdvanceFrameWork.BasePage.TestInitialization - Sydney
+2018-01-04 01:41:05,056 INFO AdvanceFrameWork.BasePage.TestInitialization - Zurich
+2018-01-04 01:41:13,828 INFO AdvanceFrameWork.BasePage.ParentBase - browser is opening
+2018-01-04 01:41:16,107 INFO AdvanceFrameWork.BasePage.ParentBase - amount of image on page 6
+2018-01-04 01:41:16,435 WARN AdvanceFrameWork.BasePage.ParentBase - this is warn message
+2018-01-06 20:03:58,579 INFO AdvanceFrameWork.BasePage.TestInitialization - browser opening....
+2018-01-06 20:03:58,636 INFO AdvanceFrameWork.BasePage.TestInitialization - getting instance of current page
+2018-01-06 20:04:01,832 INFO AdvanceFrameWork.BasePage.TestInitialization - Got instance. User logging in
+2018-01-06 20:04:01,852 DEBUG AdvanceFrameWork.BasePage.TestInitialization - waiting for web element initalization in current page
+2018-01-06 20:04:02,255 INFO AdvanceFrameWork.BasePage.TestInitialization - Acapulco
+2018-01-06 20:04:02,278 INFO AdvanceFrameWork.BasePage.TestInitialization - Frankfurt
+2018-01-06 20:04:02,302 INFO AdvanceFrameWork.BasePage.TestInitialization - London
+2018-01-06 20:04:02,325 INFO AdvanceFrameWork.BasePage.TestInitialization - New York
+2018-01-06 20:04:02,352 INFO AdvanceFrameWork.BasePage.TestInitialization - Paris
+2018-01-06 20:04:02,376 INFO AdvanceFrameWork.BasePage.TestInitialization - Portland
+2018-01-06 20:04:02,399 INFO AdvanceFrameWork.BasePage.TestInitialization - San Francisco
+2018-01-06 20:04:02,422 INFO AdvanceFrameWork.BasePage.TestInitialization - Seattle
+2018-01-06 20:04:02,448 INFO AdvanceFrameWork.BasePage.TestInitialization - Sydney
+2018-01-06 20:04:02,471 INFO AdvanceFrameWork.BasePage.TestInitialization - Zurich
+2018-01-06 20:05:56,621 INFO AdvanceFrameWork.BasePage.TestInitialization - browser opening....
+2018-01-06 20:05:56,655 INFO AdvanceFrameWork.BasePage.TestInitialization - getting instance of current page
+2018-01-06 20:06:00,387 INFO AdvanceFrameWork.BasePage.TestInitialization - Got instance. User logging in
+2018-01-06 20:06:00,396 DEBUG AdvanceFrameWork.BasePage.TestInitialization - waiting for web element initalization in current page
+2018-01-06 20:06:00,780 INFO AdvanceFrameWork.BasePage.TestInitialization - Acapulco
+2018-01-06 20:06:00,804 INFO AdvanceFrameWork.BasePage.TestInitialization - Frankfurt
+2018-01-06 20:06:00,827 INFO AdvanceFrameWork.BasePage.TestInitialization - London
+2018-01-06 20:06:00,851 INFO AdvanceFrameWork.BasePage.TestInitialization - New York
+2018-01-06 20:06:00,875 INFO AdvanceFrameWork.BasePage.TestInitialization - Paris
+2018-01-06 20:06:00,899 INFO AdvanceFrameWork.BasePage.TestInitialization - Portland
+2018-01-06 20:06:00,922 INFO AdvanceFrameWork.BasePage.TestInitialization - San Francisco
+2018-01-06 20:06:00,945 INFO AdvanceFrameWork.BasePage.TestInitialization - Seattle
+2018-01-06 20:06:00,971 INFO AdvanceFrameWork.BasePage.TestInitialization - Sydney
+2018-01-06 20:06:00,994 INFO AdvanceFrameWork.BasePage.TestInitialization - Zurich
+2018-01-06 20:06:37,704 INFO AdvanceFrameWork.BasePage.TestInitialization - browser opening....
+2018-01-06 20:06:37,764 INFO AdvanceFrameWork.BasePage.TestInitialization - getting instance of current page
+2018-01-06 20:06:41,078 INFO AdvanceFrameWork.BasePage.TestInitialization - Got instance. User logging in
+2018-01-06 20:06:41,092 DEBUG AdvanceFrameWork.BasePage.TestInitialization - waiting for web element initalization in current page
+2018-01-06 20:06:41,470 INFO AdvanceFrameWork.BasePage.TestInitialization - Acapulco
+2018-01-06 20:06:41,493 INFO AdvanceFrameWork.BasePage.TestInitialization - Frankfurt
+2018-01-06 20:06:41,516 INFO AdvanceFrameWork.BasePage.TestInitialization - London
+2018-01-06 20:06:41,539 INFO AdvanceFrameWork.BasePage.TestInitialization - New York
+2018-01-06 20:06:41,562 INFO AdvanceFrameWork.BasePage.TestInitialization - Paris
+2018-01-06 20:06:41,585 INFO AdvanceFrameWork.BasePage.TestInitialization - Portland
+2018-01-06 20:06:41,609 INFO AdvanceFrameWork.BasePage.TestInitialization - San Francisco
+2018-01-06 20:06:41,635 INFO AdvanceFrameWork.BasePage.TestInitialization - Seattle
+2018-01-06 20:06:41,657 INFO AdvanceFrameWork.BasePage.TestInitialization - Sydney
+2018-01-06 20:06:41,680 INFO AdvanceFrameWork.BasePage.TestInitialization - Zurich
+2018-01-06 20:08:56,642 INFO AdvanceFrameWork.BasePage.TestInitialization - browser opening....
+2018-01-06 20:08:56,686 INFO AdvanceFrameWork.BasePage.TestInitialization - getting instance of current page
+2018-01-06 20:09:00,392 INFO AdvanceFrameWork.BasePage.TestInitialization - Got instance. User logging in
+2018-01-06 20:09:00,410 DEBUG AdvanceFrameWork.BasePage.TestInitialization - waiting for web element initalization in current page
+2018-01-06 20:09:00,812 INFO AdvanceFrameWork.BasePage.TestInitialization - Acapulco
+2018-01-06 20:09:00,836 INFO AdvanceFrameWork.BasePage.TestInitialization - Frankfurt
+2018-01-06 20:09:00,859 INFO AdvanceFrameWork.BasePage.TestInitialization - London
+2018-01-06 20:09:00,884 INFO AdvanceFrameWork.BasePage.TestInitialization - New York
+2018-01-06 20:09:00,908 INFO AdvanceFrameWork.BasePage.TestInitialization - Paris
+2018-01-06 20:09:00,932 INFO AdvanceFrameWork.BasePage.TestInitialization - Portland
+2018-01-06 20:09:00,955 INFO AdvanceFrameWork.BasePage.TestInitialization - San Francisco
+2018-01-06 20:09:00,978 INFO AdvanceFrameWork.BasePage.TestInitialization - Seattle
+2018-01-06 20:09:01,002 INFO AdvanceFrameWork.BasePage.TestInitialization - Sydney
+2018-01-06 20:09:01,025 INFO AdvanceFrameWork.BasePage.TestInitialization - Zurich
